@@ -16,16 +16,16 @@ Checklist é uma abordagem simples e objetiva para validar funcionalidades, flux
 
 ---
 
-## 📝 Passo a Passo
+## 📝 Step by Step
 
-O passo a passo detalha cada ação do usuário e o resultado esperado, facilitando a execução e rastreabilidade dos testes.
+Step by Step detalha cada ação do usuário e o resultado esperado, facilitando a execução e rastreabilidade dos testes.
 
 **Exemplo:**
-1. Acessar o sistema pela URL principal
-2. Informar usuário e senha válidos
-3. Clicar no botão "Entrar"
-4. Verificar se o dashboard é exibido corretamente
-5. Validar se o nome do usuário aparece no topo da tela
+1. Acesse o sistema pela URL principal
+2. Informe usuário e senha válidos
+3. Clique no botão "Entrar"
+4. Verifique se o dashboard é exibido corretamente
+5. Valide se o nome do usuário aparece no topo da tela
 
 ---
 
@@ -59,8 +59,8 @@ Cenário: Login com credenciais válidas
 ---
 
 ## 💡 Recomendações
-- Use checklists para validações rápidas e rotineiras
-- Utilize passo a passo para testes detalhados e rastreáveis
+- Use Checklist para validações rápidas e rotineiras
+- Utilize Step by Step para testes detalhados e rastreáveis
 - Adote Gherkin para colaboração entre QA, PO e devs, e para automação BDD
 
 ---
