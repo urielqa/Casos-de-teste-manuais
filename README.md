@@ -53,7 +53,7 @@ Cenário: Login com credenciais válidas
 ## 📁 Estrutura Sugerida
 
 - `/checklists/` — Exemplos de checklists por funcionalidade
-- `/passo-a-passo/` — Casos de teste detalhados
+- `/Step by Step/` — Casos de teste detalhados
 - `/gherkin/` — Cenários escritos em Gherkin
 
 ---
