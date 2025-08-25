@@ -1,4 +1,4 @@
-# Casos de Teste Manuais: Gherkin, Checklist e Passo a Passo
+# Casos de Teste Manuais: Gherkin, Checklist e Step by Step
 
 Este repositório reúne exemplos práticos de casos de teste manuais, organizados em três formatos principais para apoiar a garantia de qualidade em projetos de software.
 
